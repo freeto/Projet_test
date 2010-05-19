@@ -22,5 +22,6 @@
 
 from os import getcwd
 
+print 'Chemin courant :'
 print getcwd()
 print 'Hello worlds !'
